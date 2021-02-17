@@ -4,7 +4,6 @@
 # This software is provided under under a slightly modified version
 # of the Apache Software License. See the accompanying LICENSE file
 # for more information.
-#
 # PSEXEC like functionality example using RemComSvc (https://github.com/kavika13/RemCom)
 #
 # Author:
